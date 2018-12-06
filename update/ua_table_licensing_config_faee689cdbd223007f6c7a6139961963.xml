@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_267499_carrental_cars</name>
+        <name>x_267499_carrental_bookings</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-27 08:32:19</sys_created_on>
-        <sys_id>3fd8e3abdb0023007f6c7a61399619ad</sys_id>
+        <sys_created_on>2018-08-27 11:02:46</sys_created_on>
+        <sys_id>faee689cdbd223007f6c7a6139961963</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_267499_carrental_cars</sys_name>
+        <sys_name>x_267499_carrental_bookings</sys_name>
         <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
-        <sys_update_name>ua_table_licensing_config_3fd8e3abdb0023007f6c7a61399619ad</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_faee689cdbd223007f6c7a6139961963</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-27 08:32:19</sys_updated_on>
+        <sys_updated_on>2018-08-27 11:02:46</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

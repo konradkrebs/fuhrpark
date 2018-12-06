@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-07 09:48:19</sys_created_on>
-        <sys_id>dbd16cd3db5023007f6c7a61399619fa</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_id>6eee689cdbd223007f6c7a613996193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>cancel Booking</sys_name>
         <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
         <sys_update_name>sys_dictionary_x_267499_carrental_incidents_cancel_booking</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-17 10:57:15</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-12-06 13:00:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -55,15 +55,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-27 11:15:53</sys_created_on>
-        <sys_id>584cc073db8023007f6c7a6139961940</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_id>2eee689cdbd223007f6c7a6139961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Auto</sys_name>
         <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
         <sys_policy/>
         <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
         <sys_update_name>sys_dictionary_x_267499_carrental_bookings_auto</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-13 11:04:07</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-12-06 13:00:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
