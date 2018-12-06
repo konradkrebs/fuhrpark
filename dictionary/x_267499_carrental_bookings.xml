@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="bookings" max_length="40" name="x_267499_carrental_bookings" type="collection">
+        <element display="true" label="Auto" max_length="32" name="auto" reference="x_267499_carrental_cars" reference_qual="available=true^EQ" reference_qual_condition="available=true^EQ" type="reference"/>
+        <element label="Booking from" mandatory="true" max_length="40" name="booking_from" type="glide_date"/>
+        <element label="Booking until" mandatory="true" max_length="40" name="booking_until" type="glide_date"/>
+        <element label="Car Come Back" max_length="40" name="car_come_back" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Reason" mandatory="true" max_length="50" name="reason" type="string"/>
+        <element choice="3" default="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="apply for cancel" sequence="0" value="6"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="1" value="5"/>
+                <element inactive_on_update="false" label="Finalized" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Issue" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Late" sequence="4" value="3"/>
+                <element inactive_on_update="false" label="Outstanding" sequence="5" value="1"/>
+                <element inactive_on_update="false" label="apply for booking" sequence="6" value="7"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Verfügbare Autos" mandatory="true" max_length="40" name="verfugbare_autos" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="auto"/>
+        </index>
+    </element>
+</database>

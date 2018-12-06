@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_267499_carrental.Car_Manager</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Car_Manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-27 14:01:08</sys_created_on>
+        <sys_id>4ff330bbdbc023007f6c7a6139961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_267499_carrental.Car_Manager</sys_name>
+        <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
+        <sys_update_name>sys_user_role_4ff330bbdbc023007f6c7a6139961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-27 14:01:08</sys_updated_on>
+    </sys_user_role>
+</record_update>

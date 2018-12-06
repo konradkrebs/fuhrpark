@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_267499_carrental_cars" version="2" view="test">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>brand</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>493874dadb1023007f6c7a613996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>model</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>c93874dadb1023007f6c7a613996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>level</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>4d3874dadb1023007f6c7a613996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>capacity</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>cd3874dadb1023007f6c7a613996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>available</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>413874dadb1023007f6c7a613996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number_plate</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>c13874dadb1023007f6c7a613996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>453874dadb1023007f6c7a613996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_267499_carrental_cars" element="NULL" name="x_267499_carrental_cars" parent="NULL" relationship="NULL" sys_domain="global" view="b838b49adb1023007f6c7a6139961972">813874dadb1023007f6c7a613996192a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_id>c53874dadb1023007f6c7a613996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_267499_carrental_cars</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-04 08:43:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>813874dadb1023007f6c7a613996192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_267499_carrental_cars</sys_name>
+            <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
+            <sys_update_name>sys_ui_list_x_267499_carrental_cars_test</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-04 08:43:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="test" name="test">b838b49adb1023007f6c7a6139961972</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-07 08:53:38</sys_created_on>
+        <sys_id>1337d85fdb1023007f6c7a61399619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_267499_carrental_incidents.x_267499_carrental.incidents_user</sys_name>
+        <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
+        <sys_security_acl display_value="x_267499_carrental_incidents">1337d85fdb1023007f6c7a61399619be</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1337d85fdb1023007f6c7a61399619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-07 08:53:38</sys_updated_on>
+        <sys_user_role display_value="x_267499_carrental.incidents_user" name="x_267499_carrental.incidents_user">8f37d85fdb1023007f6c7a6139961999</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

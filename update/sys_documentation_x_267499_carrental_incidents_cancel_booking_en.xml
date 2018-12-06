@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cancel_booking" label="cancel Booking" language="en" table="x_267499_carrental_incidents">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cancel_booking</element>
+            <help/>
+            <hint/>
+            <label>cancel Booking</label>
+            <language>en</language>
+            <name>x_267499_carrental_incidents</name>
+            <plural>cancel Bookings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-07 09:48:19</sys_created_on>
+            <sys_id>58c3e057db5023007f6c7a61399619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cancel Booking</sys_name>
+            <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
+            <sys_update_name>sys_documentation_x_267499_carrental_incidents_cancel_booking_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-07 09:48:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

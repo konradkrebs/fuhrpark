@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition><![CDATA[return true;]]></condition>
+        <conditional>false</conditional>
+        <name>Manage Availability</name>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2018-08-27 12:10:59</run_start>
+        <run_time>1970-01-01 16:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var rightNow = new GlideDate();
+var bookingsGR = new GlideRecord('x_267499_carrental_bookings');
+var carsGR = new GlideRecord('x_267499_carrental_cars');
+bookingsGR.addQuery('booking_from','<=',rightNow);
+bookingsGR.addQuery('booking_until','>',rightNow);
+bookingsGR.query();
+while(bookingsGR.next()){
+	carsGR.get(bookingsGR.getValue('auto'));
+	carsGR.setValue('available',false);
+	carsGR.update();
+}
+
+]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-27 12:19:29</sys_created_on>
+        <sys_id>8bea1cbbdb8023007f6c7a6139961967</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>Manage Availability</sys_name>
+        <sys_package display_value="carRental" source="x_267499_carrental">32586f6bdb0023007f6c7a613996192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="carRental">32586f6bdb0023007f6c7a613996192c</sys_scope>
+        <sys_update_name>sysauto_script_8bea1cbbdb8023007f6c7a6139961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-27 13:37:44</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

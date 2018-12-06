@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Incidents" max_length="40" name="x_267499_carrental_incidents" type="collection">
+        <element choice="1" label="Art" mandatory="true" max_length="40" name="art" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancel Booking" value="2"/>
+                <element inactive_on_update="false" label="Crash" value="1"/>
+                <element inactive_on_update="false" label="Other" value="3"/>
+            </choice>
+        </element>
+        <element display="true" label="cancel Booking" mandatory="true" max_length="32" name="cancel_booking" reference="x_267499_carrental_bookings" reference_qual="status=1^booking_from&gt;javascript:gs.endOfYesterday()^EQ^sys_created_by=javascript:gs.getUserName()" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" read_only="true" type="string"/>
+        <element label="New Reference" max_length="32" name="u_reference_1" reference="x_267499_carrental_cars" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Update Message" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index2">
+            <element name="cancel_booking"/>
+        </index>
+    </element>
+</database>
